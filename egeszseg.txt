@@ -1,0 +1,3 @@
+Kis életcsomag,-6,10
+Nagy életcsomag,-10,20
+Állatorvos,-25,100

@@ -1,0 +1,7 @@
+Jutalomfalatka,-10,4,0
+Száraz kutyatáp,-20,8,0
+Csont,-23,10,0
+Házikoszt,-15,6,0
+Víz,-7,3,0
+Konzerv kutyaeledel,-30,13,0
+Kutya energiaital,-20,20,15
